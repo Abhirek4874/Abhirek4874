@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Abi-shake
-- 👀 I’m interested in hardware based programming, cloud, devops!
+- 💻 I work as developer focussed on php & its frameworks( Laravel & Fusebox )
+- 👀 I’m a technology enthusiast who likes to explore various concepts and ideas
+- ✈️ I'm an avid traveller whol likesto explore countries & cuisine whenever I can!
+- I’m intrested in hardware based programming, cloud, devops!
 - 🌱 I’m currently learning Linux and shell scripting!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on :
+Linkedin - https://in.linkedin.com/in/abhishek-singh-2b19301b
 
 <!---
 Abhirek/Abhirek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
